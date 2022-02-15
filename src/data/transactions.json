@@ -1,0 +1,7 @@
+{
+	"transactions": [
+	  { "id": 1, "date": "2021-12-07", "creditAccount": 1, "debitAccount": 5, "description": "Payment Transfer", "amount": 100.00 },
+	  { "id": 2, "date": "2021-12-06", "creditAccount": 5, "debitAccount": 8, "description": "Groceries", "amount": 100.00 },
+	  { "id": 3, "date": "2021-12-23", "creditAccount": 7, "debitAccount": 1, "description": "Paycheck", "amount": 1000.00 }
+	]
+}
